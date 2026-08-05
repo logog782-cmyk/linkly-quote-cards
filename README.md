@@ -19,17 +19,21 @@ Turn the quotes saved in your [Linkly](https://linkly.ai) knowledge-base notes i
 
 ## Gallery · 样卡
 
-| no.02 黄仁勋 · portrait | no.02 黄仁勋 · calendar | no.03 芒格 · portrait |
+| no.02 黄仁勋 · portrait | no.02 黄仁勋 · calendar | no.03 芒格 |
 | --- | --- | --- |
-| ![no.02 portrait](examples/no02-jensen-portrait.jpeg) | ![no.02 calendar](examples/no02-jensen-calendar.jpeg) | ![no.03 portrait](examples/no03-munger-portrait.jpeg) |
+| ![no.02 portrait](examples/no02-jensen-portrait.jpeg) | ![no.02 calendar](examples/no02-jensen-calendar.jpeg) | ![no.03](examples/no03-munger-portrait.jpeg) |
 
-| no.47 汪滔 · company object | no.90 张一鸣 | no.81 Karpathy |
+| no.15 巴菲特 | no.37 方洪波 | no.47 汪滔 · company object |
 | --- | --- | --- |
-| ![no.47](examples/no47-wangtao.jpeg) | ![no.90](examples/no90-zhangyiming.jpeg) | ![no.81](examples/no81-karpathy.jpeg) |
+| ![no.15](examples/no15-buffett.jpeg) | ![no.37](examples/no37-fanghongbo.jpeg) | ![no.47](examples/no47-wangtao.jpeg) |
 
-| no.88 余凯 | no.96 Sam Altman | 雨天旧书店 · poster mode |
+| no.55 王兴 | no.77 Boris Cherny | no.81 Karpathy |
 | --- | --- | --- |
-| ![no.88](examples/no88-yukai.jpeg) | ![no.96](examples/no96-altman.jpeg) | ![rainy bookshop](examples/rainy-bookshop.jpeg) |
+| ![no.55](examples/no55-wangxing.jpeg) | ![no.77](examples/no77-claude.jpeg) | ![no.81](examples/no81-karpathy.jpeg) |
+
+| no.90 张一鸣 | no.94 Tim 潘天鸿 | |
+| --- | --- | --- |
+| ![no.90](examples/no90-zhangyiming.jpeg) | ![no.94](examples/no94-mars.jpeg) | |
 
 The same quote can take a portrait anchor or an object anchor (see the two no.02 variants). When the speaker never shows their face — like DJI's 汪滔 — the recipe reaches for their machines instead (no.47). 同一条金句可走肖像版或物象版；说话人不露面的，就让他的机器出镜。
 
