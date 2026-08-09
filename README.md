@@ -56,3 +56,18 @@ Image generation in `SKILL.md` step six calls our internal Seedream CLI (Volcano
 ```
 
 The quote-card recipe sits on top of a general zine-poster mode — minimal posters from any theme, sentence, mood, article idea, or photo. 金句卡之下是通用 zine 海报模式，配图海报照常出。
+
+## Provenance · 原创声明
+
+Original work by **Lightform 光形体 / Linkly**, first published 2026-08-05 in this repository. Canonical source: https://github.com/logog782-cmyk/linkly-quote-cards. Per-file SHA-256 content fingerprints are registered in [FINGERPRINT.md](FINGERPRINT.md).
+
+本仓库为原创首发(2026-08-05),原始出处以本仓库为准;全部文件的内容指纹(SHA-256)登记在 [FINGERPRINT.md](FINGERPRINT.md)。
+
+<!--
+Provenance fingerprint · 原创指纹
+Author: Lightform 光形体 / Linkly (github.com/logog782-cmyk)
+Canonical repository: https://github.com/logog782-cmyk/linkly-quote-cards
+First published: 2026-08-05 · License: MIT
+Release integrity hashes: FINGERPRINT.md in the repo root.
+本文件属原始发布;他处出现且无此指纹链者,以上述仓库为原始出处。
+-->

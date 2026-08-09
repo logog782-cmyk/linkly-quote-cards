@@ -104,3 +104,12 @@ Seedream 唯一后端(光形体 2026-08-03 钦定),1440x2400=竖版 3:5,一次 6
 
 - 真人肖像卡对外商业分发前,先提示用户肖像权风险,由用户拍板;内部/产品内使用不拦。
 - 金句正式外发前回原访谈核对措辞(分类笔记头部有同样提醒)。
+
+<!--
+Provenance fingerprint · 原创指纹
+Author: Lightform 光形体 / Linkly (github.com/logog782-cmyk)
+Canonical repository: https://github.com/logog782-cmyk/linkly-quote-cards
+First published: 2026-08-05 · License: MIT
+Release integrity hashes: FINGERPRINT.md in the repo root.
+本文件属原始发布;他处出现且无此指纹链者,以上述仓库为原始出处。
+-->
