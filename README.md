@@ -15,7 +15,7 @@ Turn the quotes saved in your [Linkly](https://linkly.ai) knowledge-base notes i
 - **取句 / Quote sourcing** — every card is numbered against your Linkly note library (`linkly · no.XX`), so each card traces back to a note. 卡片编号与知识库笔记编号一一对应。
 - **锚点决策树 / Anchor decision tree** — famous speakers get a coarse halftone newsprint portrait (strict grayscale, torn edges, the color anchor always lands outside the face); when a likeness isn't reliably generatable, the card falls back to a quote-born object or the speaker's company hardware; a user-supplied photo drives an image-to-image portrait instead. 名人上灰度网点肖像；小众说话人降级到金句物象或公司硬件；给照片走图生图。
 - **逐字校验 / Verbatim text check** — all in-image text is rendered by the image model, then re-read and verified character by character, punctuation included; any mismatch triggers one retry. CJK-safe. 文字模型直出，逐字校验，错字自动重生。
-- **四族版式 + 色相轮值 / Four layout families, rotating hues** — specimen 标本式, clipping 剪报式, letterpress 铅字式, note 便签式; seven hues rotate across a batch so a series never repeats itself. 批产不重样，系列自成一套。
+- **两族版式 + 色相轮值 / Two layout families, rotating hues** — specimen 标本式 and clipping 剪报式, both image-anchored: every card carries a pictured thing, never type alone. Seven hues rotate across a batch so a series never repeats itself. 只认标本、剪报两族，锚必须是成像的人或物；批产不重样，系列自成一套。
 
 ## Gallery · 样卡
 
