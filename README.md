@@ -1,4 +1,4 @@
-# Linkly 金句卡 · Linkly Quote Cards
+# Linkly 金句卡 · 知识库笔记金句海报 | Linkly Quote Cards
 
 Turn the quotes saved in your [Linkly](https://linkly.ai) knowledge-base notes into numbered, minimal zine-style quote cards.
 

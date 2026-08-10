@@ -16,7 +16,7 @@ Every tracked file's SHA-256 in this release. A file found elsewhere that matche
 | File | SHA-256 |
 |---|---|
 | `LICENSE` | `6c9dc48137fd69dcda4130b8a27b4f995de5c1b7c25ad16a74cae119b35b8b29` |
-| `README.md` | `d03c7578e054cedeb87fec1946e452181262f611a588766a9551a9610f51484f` |
+| `README.md` | `4969ed7e636781c43cb44c1576d73ce5fc0a73aec5baf4e94bb4c0647448a7d4` |
 | `SKILL.md` | `94f12dc501ec85772ebaf68b15ea4b086e684d9a5415850ff7b509afac8209b9` |
 | `examples/no02-jensen-calendar.jpeg` | `0abad5dae2535d26628b815ae5c14d025a6c1ebc0714e0c1591e838ed625ebc7` |
 | `examples/no02-jensen-portrait.jpeg` | `1bef159e71aa789efbea44124c13ada023f5a3195d145e1ebdeae24681175939` |
