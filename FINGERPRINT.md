@@ -17,13 +17,13 @@ Every tracked file's SHA-256 in this release. A file found elsewhere that matche
 | File | SHA-256 |
 |---|---|
 | `LICENSE` | `6c9dc48137fd69dcda4130b8a27b4f995de5c1b7c25ad16a74cae119b35b8b29` |
-| `README.md` | `7ae76e109549e246febc075517e7fbe2075621522e5fdf55e294a025928c4578` |
-| `SKILL.md` | `feb42dc1ed14b97d3f2b41537dcda09b4451255effbd1faacb9d3f7dbc5ebe84` |
-| `examples/no05-chenmian.jpeg` | `27bee6fd098caefa2f5bec980cc70bd542938acd1e21f17f31011c99c17f8b3c` |
-| `examples/no06-chenmian.jpeg` | `a577f4c90891aacdf13212d5fe578293fc13a7670c4d44aadd943e391bdd80d2` |
+| `README.md` | `7c3d05d158fbc3dc6b148f4256a71b38b9cce6e473570bbfd7302ae313247441` |
+| `SKILL.md` | `20f5425b185a7cc9dea066713a2a07af3d828e7290682e2fd5b7d3cb7f6c6d78` |
+| `examples/no05-chenmian.jpeg` | `9fd3827a1ebbc37535d77013dabab8f44321696442e0fbc0df417cf41c1ee6b2` |
+| `examples/no06-chenmian.jpeg` | `3759d9ca0961c47b2a393bf39437dbc770607e467005b51bea080cee30467aa0` |
 | `examples/no63-altman.jpeg` | `6445fbad6ef9e1cd86c870ebc173d6e863da2905c54bdaf5c02d2f8a53eb2c40` |
 | `examples/no65-amodei.jpeg` | `79e5c79e2e0ec0f49f839d6a7bd78c2abbc3c52e8f9b881b60337e8a2bddb87b` |
 | `examples/no77-cherny.jpeg` | `3637065a36b0eae93cdf8fc8f1c97366e863d1398a241cb52bdb8ba453693265` |
 | `examples/no81-karpathy.jpeg` | `bd511bccb44078362adf7635a68612d80988f38b3d8fd88d58ae20728b2ea0bf` |
-| `examples/no83-ilya.jpeg` | `3602d00e341c9294f5021221d5e4a8d14b02170cb1f580306ae00d869af7d338` |
+| `examples/no83-ilya.jpeg` | `fd71e844c338b687fe7512cf2ab57c5ccdf61598032bf572d8b5345dcfece716` |
 | `examples/no90-zhangyiming.jpeg` | `1e2488a11cd842773d3b86f86be3df455853acf5465b132703e709c0b48ea7f2` |
