@@ -27,9 +27,11 @@ Original palette, named and mixed in-house. 自研色系，禁用库外色值。
 | Ink pair 双墨对 | Hex | Domain |
 |---|---|---|
 | 辉蓝 × 熔橙 Aurora × Molten | `#105CBD` × `#E96D3D` | default pair; technology, creation, product |
-| 靛青 × 朱砂 Indigo × Vermilion | `#26468F` × `#C03A2B` | declarations, darkest hours, decisions |
-| 竹青 × 玄墨 Bamboo × Carbon | `#3D7A55` × `#2A2B2E` | observation, research, the long game |
-| 黛蓝 × 赭石 Ink-blue × Ochre | `#2F4C6B` × `#B26A3C` | years, archives, looking back |
+| 电蓝 × 碳黑 Electric × Carbon | `#1C39E0` × `#26251F` | big scenes, contemporary culture, charged judgments |
+| 靛青 × 番茄红 Indigo × Tomato | `#2447A6` × `#D93A2B` | declarations, darkest hours, decisions |
+| 翠绿 × 玄墨 Viridian × Carbon | `#0F9155` × `#2A2B2E` | observation, research, the long game |
+
+One muted heirloom pair — 黛蓝 × 赭石 ink-blue × ochre `#2F4C6B` × `#B26A3C` — is reserved for rice-paper archival subjects, by request only. Working inks stay saturated: a color is either full-strength or off press (a v1 house law). An English word or a numeral inside the sentence may take the accent ink as its job — black-on-Chinese, color-on-the-loanword is part of the series grammar. 工作墨一律高饱和；句中的英文词或数字可升格为副墨差事。
 
 Overprint darkening is physics, not a third ink; sparse dots showing paper is exposure, not a new color. 叠印变深是物理，不是加色。
 
