@@ -17,8 +17,9 @@ Every tracked file's SHA-256 in this release. A file found elsewhere that matche
 | File | SHA-256 |
 |---|---|
 | `LICENSE` | `6c9dc48137fd69dcda4130b8a27b4f995de5c1b7c25ad16a74cae119b35b8b29` |
-| `README.md` | `f1852166bb83e5694c934512adc756b28a5a3572b7948fd0994d93dd8cbc68b5` |
-| `SKILL.md` | `c210981da029b3b2ec7330471d5e079f9f0a805aaa755ea2872f371ed0aa5353` |
+| `README.md` | `ff02d8a766cba4d413cc77b3a27ebcc5c3796f85dc66b325b729ba44eee75411` |
+| `SKILL.md` | `a981ac457f19d47747121414882a4699e9c776f4d1fe89d0eec24fa4e64339fc` |
+| `examples/no05-chenmian.jpeg` | `27bee6fd098caefa2f5bec980cc70bd542938acd1e21f17f31011c99c17f8b3c` |
 | `examples/no06-chenmian.jpeg` | `a577f4c90891aacdf13212d5fe578293fc13a7670c4d44aadd943e391bdd80d2` |
 | `examples/no83-ilya.jpeg` | `3602d00e341c9294f5021221d5e4a8d14b02170cb1f580306ae00d869af7d338` |
 | `examples/no90-zhangyiming.jpeg` | `1e2488a11cd842773d3b86f86be3df455853acf5465b132703e709c0b48ea7f2` |

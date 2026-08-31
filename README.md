@@ -47,14 +47,18 @@ Each card gets exactly one focal event, exactly one quiet zone, at most one hand
 | --- | --- | --- |
 | ![no.90](examples/no90-zhangyiming.jpeg) | ![no.06](examples/no06-chenmian.jpeg) | ![no.83](examples/no83-ilya.jpeg) |
 
-"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty. The medium argues the message. 句子讲什么，版面就用什么印。
+| no.05 陈冕 · 器物 | | |
+| --- | --- | --- |
+| ![no.05](examples/no05-chenmian.jpeg) | | |
+
+"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty; a pair of dice whose lone red pip does all the talking about luck. The medium argues the message. 句子讲什么，版面就用什么印。
 
 ## How it works · 它怎么干活
 
 - **Quote sourcing 取句** — every card is numbered against the Linkly note library (`no.XX 作者`), so each card traces back to a note. 编号与知识库笔记一一对应。
 - **Anchor extraction 立象** — the recipe pulls the one photographable thing out of the sentence (nouns first, scenes second) and builds the image plate around it. 从句子里揪出那个能拍出来的物。
 - **Four-part prompt compiler 四联编译** — plate, field, object, type: four paragraphs of visible outcomes plus a hard-negative tail. Deterministic recipe: same quote, same card. 同句同卡，不靠运气。
-- **Verbatim gate 校印硬门** — all in-image text is model-rendered (the ink behavior of printed type is the style itself), then re-read glyph by glyph. One retry on error; repeated failure changes the line-break strategy instead of shipping a broken card. CJK-first: 黑体 for declarations, 宋体 for reflection, monospaced footer.
+- **Verbatim gate 校印硬门** — all in-image text is model-rendered (the ink behavior of printed type is the style itself), then re-read glyph by glyph. One retry on error; repeated failure changes the line-break strategy instead of shipping a broken card. CJK-first, letterpress-blooded: serif 宋体 and typewriter faces only — heavy title-song for declarations, light song/Mincho for reflection, a typewriter footer; ink bleeds slightly into the paper fiber, impression weight varies, and the modern sans-serif family is banned outright (a v1 house law carried into v2). 衬线与打字机体是唯一合法字库,现代无衬线整族禁用。
 
 ## Install (Claude Code)
 
