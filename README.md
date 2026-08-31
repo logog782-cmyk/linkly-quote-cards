@@ -1,73 +1,75 @@
-# Linkly 金句卡 · 知识库笔记金句海报 | Linkly Quote Cards
+# Linkly 金句卡 v2 · 双色印刷版 | Linkly Quote Cards — Two-Ink Print Edition
 
-Turn the quotes saved in your [Linkly](https://linkly.ai) knowledge-base notes into numbered, minimal zine-style quote cards.
+Turn the quotes saved in your [Linkly](https://linkly.ai) knowledge-base notes into numbered two-ink editorial print cards — halftone image, active paper, type pressed over ink, a letterpress-style footer.
 
-把 [Linkly](https://linkly.ai) 知识库笔记里存的金句，变成带编号的极简 zine 风金句卡。
+把 [Linkly](https://linkly.ai) 知识库笔记里存的金句，印成带编号的双墨编辑印刷卡——网点影像承重、留白说话、文字压图、活字落款收尾。
 
-## Three rules · 三条铁律
+> v2 is a full redesign. The v1 aged-paper zine style is retired from the default path and archived in git history; v2 speaks the language of the two-ink print shop: two plates, one anchor object, one quiet zone.
+>
+> v2 是一次整体换血。v1 旧纸 zine 风退出默认产线（git 历史里都在）；v2 说的是双墨印刷车间的语言：两个墨版，一件锚物，一块静区。
 
-1. **Paper is the protagonist.** Every card must read as an aged sheet fed through a flatbed scanner — about 80% empty paper, nothing touching the edges, no design-tool cleanliness. 纸是主角：八成留白，像扫描件，不像设计稿。
-2. **One color per card.** Exactly one saturated color anchor — small (1–3% of the canvas) but unmissable at thumbnail size. Color goes to the subject, never to decoration. 一卡一色：面积小，第一眼可见。
-3. **Type is printed, not placed.** Serif or typewriter faces pressed into the paper fiber — ink bleed, slight misregistration, uneven weight. Never clean digital typesetting. 字是印的，不是贴的。
+## Three iron laws · 三铁律
 
-## How it works · 它怎么干活
+1. **Verbatim or void. 逐字铁律。** The quote is copied character-for-character from the source note and verified character-for-character in the finished image, punctuation included. One wrong glyph kills the card. 错一字，整卡作废。
+2. **Two plates, both employed. 两墨纪律。** At most two printing inks per card — paper doesn't count. The dominant plate carries 70–85% (image + display type); the accent plate carries 15–30% and must hold a real job: the footer ring, one annotation line, one part of the subject. An idle accent ink doesn't get on press. 副墨没差事，就没资格上版。
+3. **An imageable anchor, always. 立象铁律。** Every card needs one thing you could photograph — a steering wheel, a scaffold, an egg. If the sentence offers nothing imageable, pick another sentence. Pure typography-only declaration pages are banned — oversized words alone don't stand. 纯排版宣言页禁做。
 
-- **取句 / Quote sourcing** — every card is numbered against your Linkly note library (`linkly · no.XX`), so each card traces back to a note. 卡片编号与知识库笔记编号一一对应。
-- **锚点决策树 / Anchor decision tree** — famous speakers get a coarse halftone newsprint portrait (strict grayscale, torn edges, the color anchor always lands outside the face); when a likeness isn't reliably generatable, the card falls back to a quote-born object or the speaker's company hardware; a user-supplied photo drives an image-to-image portrait instead. 名人上灰度网点肖像；小众说话人降级到金句物象或公司硬件；给照片走图生图。
-- **逐字校验 / Verbatim text check** — all in-image text is rendered by the image model, then re-read and verified character by character, punctuation included; any mismatch triggers one retry. CJK-safe. 文字模型直出，逐字校验，错字自动重生。
-- **两族版式 + 色相轮值 / Two layout families, rotating hues** — specimen 标本式 and clipping 剪报式, both image-anchored: every card carries a pictured thing, never type alone. Seven hues rotate across a batch so a series never repeats itself. 只认标本、剪报两族，锚必须是成像的人或物；批产不重样，系列自成一套。
+## The ink library · 墨库
+
+Original palette, named and mixed in-house. 自研色系，禁用库外色值。
+
+| Substrate 纸 | Hex | For |
+|---|---|---|
+| 雪白 Snow | `#FBFBF8` | default; declarations, technology, contemporary |
+| 青灰 Slate | `#E8EAE8` | architecture, systems, restraint |
+| 稻米 Rice | `#F3EFE6` | age, craft, retrospect (by request) |
+
+| Ink pair 双墨对 | Hex | Domain |
+|---|---|---|
+| 辉蓝 × 熔橙 Aurora × Molten | `#105CBD` × `#E96D3D` | default pair; technology, creation, product |
+| 靛青 × 朱砂 Indigo × Vermilion | `#26468F` × `#C03A2B` | declarations, darkest hours, decisions |
+| 竹青 × 玄墨 Bamboo × Carbon | `#3D7A55` × `#2A2B2E` | observation, research, the long game |
+| 黛蓝 × 赭石 Ink-blue × Ochre | `#2F4C6B` × `#B26A3C` | years, archives, looking back |
+
+Overprint darkening is physics, not a third ink; sparse dots showing paper is exposure, not a new color. 叠印变深是物理，不是加色。
+
+## Three layout families · 版式三族
+
+- **压场 Field-press** — a full-bleed halftone field carries the page; the sentence presses over it, knocked out to paper where ink runs dense. For forceful judgments and big scenes. 影像场承重，句子压图。
+- **开窗 Window** — paper is the co-protagonist: a large quiet white shape opens against the image, the subject leans in half-shown. For philosophical, restrained sentences about simplicity and trade-offs. 纸当第二主角。
+- **器物 Specimen** — one object close-up, decisively cropped at an edge, the sentence locked to its contour, one accent-ink note pointing at a detail. For sentences that contain a thing. 一件物的特写当标本。
+
+Each card gets exactly one focal event, exactly one quiet zone, at most one hand gesture (a ring, a rule, a small arrow — drawn by the accent plate). 每卡一个焦点事件、一块静区、至多一处手工姿态。
 
 ## Gallery · 样卡
 
-| no.02 黄仁勋 · portrait | no.02 黄仁勋 · calendar | no.03 芒格 |
+| no.90 张一鸣 · 压场 | no.06 陈冕 · 器物 | no.83 Ilya Sutskever · 开窗 |
 | --- | --- | --- |
-| ![no.02 portrait](examples/no02-jensen-portrait.jpeg) | ![no.02 calendar](examples/no02-jensen-calendar.jpeg) | ![no.03](examples/no03-munger-portrait.jpeg) |
+| ![no.90](examples/no90-zhangyiming.jpeg) | ![no.06](examples/no06-chenmian.jpeg) | ![no.83](examples/no83-ilya.jpeg) |
 
-| no.15 巴菲特 | no.37 方洪波 | no.47 汪滔 · company object |
-| --- | --- | --- |
-| ![no.15](examples/no15-buffett.jpeg) | ![no.37](examples/no37-fanghongbo.jpeg) | ![no.47](examples/no47-wangtao.jpeg) |
+"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty. The medium argues the message. 句子讲什么，版面就用什么印。
 
-| no.55 王兴 | no.77 Boris Cherny | no.81 Karpathy |
-| --- | --- | --- |
-| ![no.55](examples/no55-wangxing.jpeg) | ![no.77](examples/no77-claude.jpeg) | ![no.81](examples/no81-karpathy.jpeg) |
+## How it works · 它怎么干活
 
-| no.90 张一鸣 | no.94 Tim 潘天鸿 | |
-| --- | --- | --- |
-| ![no.90](examples/no90-zhangyiming.jpeg) | ![no.94](examples/no94-mars.jpeg) | |
-
-The same quote can take a portrait anchor or an object anchor (see the two no.02 variants). When the speaker never shows their face — like DJI's 汪滔 — the recipe reaches for their machines instead (no.47). 同一条金句可走肖像版或物象版；说话人不露面的，就让他的机器出镜。
+- **Quote sourcing 取句** — every card is numbered against the Linkly note library (`no.XX 作者`), so each card traces back to a note. 编号与知识库笔记一一对应。
+- **Anchor extraction 立象** — the recipe pulls the one photographable thing out of the sentence (nouns first, scenes second) and builds the image plate around it. 从句子里揪出那个能拍出来的物。
+- **Four-part prompt compiler 四联编译** — plate, field, object, type: four paragraphs of visible outcomes plus a hard-negative tail. Deterministic recipe: same quote, same card. 同句同卡，不靠运气。
+- **Verbatim gate 校印硬门** — all in-image text is model-rendered (the ink behavior of printed type is the style itself), then re-read glyph by glyph. One retry on error; repeated failure changes the line-break strategy instead of shipping a broken card. CJK-first: 黑体 for declarations, 宋体 for reflection, monospaced footer.
 
 ## Install (Claude Code)
 
 ```bash
-git clone https://github.com/logog782-cmyk/linkly-quote-cards.git \
-  ~/.claude/skills/linkly-quote-cards
+git clone https://github.com/logog782-cmyk/linkly-quote-cards.git ~/.claude/skills/linkly-quote-cards
 ```
 
-Image generation in `SKILL.md` step six calls our internal Seedream CLI (Volcano Ark `doubao-seedream-5-0-pro`) — point that one command at your own text-to-image backend before use. 生图命令在 SKILL.md 第六步，换成你自己的后端即可。
+The skill file is written for a Seedream-backed image CLI; point the print step at your own text-to-image backend and keep the verbatim gate. 生图后端可替换，逐字校验不可省。
 
-## Usage · 用法
+## Provenance · 出处
 
-```text
-出金句卡 no.47
-拿这条金句做张卡：股票并不知道你持有它。—— 巴菲特
-人生哲学那组挑三条做卡
-给这篇稿子配张 zine 风图
-```
+All instructions, palette values, layout systems, and gallery artwork in this repository are original work by Lightform 光形体 / Linkly — see `FINGERPRINT.md` for per-file hashes and the git history for the timeline. The two-ink editorial print genre has a long lineage in risograph and print-shop culture; a tip of the hat to Yan Liu's mono-color-skill for demonstrating how well that genre travels into the prompt era. No text, tokens, or assets from that or any other project are used here.
 
-The quote-card recipe sits on top of a general zine-poster mode — minimal posters from any theme, sentence, mood, article idea, or photo. 金句卡之下是通用 zine 海报模式，配图海报照常出。
+本仓库全部指令、色值、版式系统与样卡均为光形体 / Linkly 原创（逐文件哈希见 `FINGERPRINT.md`，时间线见 git 历史）。双墨编辑印刷这一体裁在 risograph 与印刷文化中源远流长；致意 Yan Liu 的 mono-color-skill 对这一体裁在提示词时代的出色示范。本仓库未使用该项目或任何其他项目的文本、色值或素材。
 
-## Provenance · 原创声明
+## License
 
-Original work by **Lightform 光形体 / Linkly**, first published 2026-08-05 in this repository. Canonical source: https://github.com/logog782-cmyk/linkly-quote-cards. Per-file SHA-256 content fingerprints are registered in [FINGERPRINT.md](FINGERPRINT.md).
-
-本仓库为原创首发(2026-08-05),原始出处以本仓库为准;全部文件的内容指纹(SHA-256)登记在 [FINGERPRINT.md](FINGERPRINT.md)。
-
-<!--
-Provenance fingerprint · 原创指纹
-Author: Lightform 光形体 / Linkly (github.com/logog782-cmyk)
-Canonical repository: https://github.com/logog782-cmyk/linkly-quote-cards
-First published: 2026-08-05 · License: MIT
-Release integrity hashes: FINGERPRINT.md in the repo root.
-本文件属原始发布;他处出现且无此指纹链者,以上述仓库为原始出处。
--->
+MIT © Lightform 光形体 / Linkly. Gallery images are original Seedream-generated artwork published here as project samples.
