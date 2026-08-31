@@ -47,11 +47,15 @@ Each card gets exactly one focal event, exactly one quiet zone, at most one hand
 | --- | --- | --- |
 | ![no.90](examples/no90-zhangyiming.jpeg) | ![no.06](examples/no06-chenmian.jpeg) | ![no.83](examples/no83-ilya.jpeg) |
 
-| no.05 陈冕 · 器物 | | |
+| no.05 陈冕 · 器物 | no.63 Sam Altman · 开窗 | no.65 Dario Amodei · 器物 |
 | --- | --- | --- |
-| ![no.05](examples/no05-chenmian.jpeg) | | |
+| ![no.05](examples/no05-chenmian.jpeg) | ![no.63](examples/no63-altman.jpeg) | ![no.65](examples/no65-amodei.jpeg) |
 
-"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty; a pair of dice whose lone red pip does all the talking about luck. The medium argues the message. 句子讲什么，版面就用什么印。
+| no.77 Boris Cherny · 压场 | no.81 Andrej Karpathy · 器物 | |
+| --- | --- | --- |
+| ![no.77](examples/no77-cherny.jpeg) | ![no.81](examples/no81-karpathy.jpeg) | |
+
+"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty; a pair of dice whose lone red pip does all the talking about luck; an empty crib under an orange mobile for the world a child will grow into; a sheet folded four times for what exponentials look like two years early; one orange return key for the person who prompts instead of types; a typewriter with a blank page for "you read, the LLM writes." The medium argues the message. 句子讲什么，版面就用什么印。
 
 ## How it works · 它怎么干活
 
