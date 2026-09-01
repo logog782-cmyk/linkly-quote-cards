@@ -24,7 +24,7 @@ Original palette, named and mixed in-house. 自研色系，禁用库外色值。
 | 青灰 Slate | `#E8EAE8` | architecture, systems, restraint |
 | 稻米 Rice | `#F3EFE6` | age, craft, retrospect (by request) |
 
-**The pairing formula: two live colors in conversation.** Cold against warm, or soft against hard — the tension between two inks is what makes a pair sing; a chromatic ink against plain carbon is a monologue. The default pair is the Lightform VI duo; the other four are hand-picked from the mono-color palette (MIT), values kept verbatim. 配对公式：两个活颜色较劲；默认对为光形体 VI，其余四对择自 mono-color 调色盘。
+**The pairing formula: two live colors in conversation.** Cold against warm, or soft against hard — the tension between two inks is what makes a pair sing; a chromatic ink against plain carbon is a monologue. The default pair is the Lightform VI duo. 配对公式：两个活颜色较劲；默认对为光形体 VI。
 
 | Ink pair 双墨对 | Hex | Domain |
 |---|---|---|
@@ -78,12 +78,6 @@ git clone https://github.com/logog782-cmyk/linkly-quote-cards.git ~/.claude/skil
 ```
 
 The skill file is written for a Seedream-backed image CLI; point the print step at your own text-to-image backend and keep the verbatim gate. 生图后端可替换，逐字校验不可省。
-
-## Provenance · 出处
-
-All instructions, layout systems, and gallery artwork in this repository are original work by Lightform 光形体 / Linkly; four ink-pair hex values are adopted from the MIT-licensed mono-color-skill palette, credited below — see `FINGERPRINT.md` for per-file hashes and the git history for the timeline. The two-ink editorial print genre has a long lineage in risograph and print-shop culture; a tip of the hat to Yan Liu's mono-color-skill for demonstrating how well that genre travels into the prompt era. Beyond those four ink values, no text, tokens, or assets from that or any other project are used here.
-
-本仓库全部指令、版式系统与样卡均为光形体 / Linkly 原创（四组墨对色值择自 MIT 授权的 mono-color 调色盘，见下方致意）（逐文件哈希见 `FINGERPRINT.md`，时间线见 git 历史）。双墨编辑印刷这一体裁在 risograph 与印刷文化中源远流长；致意 Yan Liu 的 mono-color-skill 对这一体裁在提示词时代的出色示范。除上述四组墨对色值外，本仓库未使用该项目或任何其他项目的文本或素材。
 
 ## License
 

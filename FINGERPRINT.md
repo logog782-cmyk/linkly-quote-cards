@@ -17,8 +17,8 @@ Every tracked file's SHA-256 in this release. A file found elsewhere that matche
 | File | SHA-256 |
 |---|---|
 | `LICENSE` | `6c9dc48137fd69dcda4130b8a27b4f995de5c1b7c25ad16a74cae119b35b8b29` |
-| `README.md` | `520620a24db99a833087ea7bc53cd67edb53386984444e1d48e4141322b6075c` |
-| `SKILL.md` | `238711603fa4a70eb9756f6f7d16e514e83d1751f6971528b996f6fca66fe269` |
+| `README.md` | `9eb69f246a536f658da966f5953e839ec22157e9903e373a62941a5f4e69bb12` |
+| `SKILL.md` | `7f229bf590e46678b6b4399a5183726d69d74c2e99a13a5c6c7a2f530a6600c3` |
 | `examples/no05-chenmian.jpeg` | `43dd62332444f310fb30acd27b555a9d8973dea3cebf8a88bdb020f1ef40eb68` |
 | `examples/no06-chenmian.jpeg` | `f4b0b4f1b32830500e23380c2684ed65ec9b397444f6d569e81ae85bf49cd507` |
 | `examples/no63-altman.jpeg` | `6445fbad6ef9e1cd86c870ebc173d6e863da2905c54bdaf5c02d2f8a53eb2c40` |
