@@ -24,15 +24,17 @@ Original palette, named and mixed in-house. 自研色系，禁用库外色值。
 | 青灰 Slate | `#E8EAE8` | architecture, systems, restraint |
 | 稻米 Rice | `#F3EFE6` | age, craft, retrospect (by request) |
 
+**The pairing formula: one cold ink, one warm ink, both alive.** Black never partners — a chromatic ink against carbon is a monologue; two full-strength colors arguing is what makes the blue-orange pair sing, so every pair follows that recipe. 配对公式：一冷一暖、彩对彩；黑墨不配对。
+
 | Ink pair 双墨对 | Hex | Domain |
 |---|---|---|
 | 辉蓝 × 熔橙 Aurora × Molten | `#105CBD` × `#E96D3D` | default pair; technology, creation, product |
-| 电蓝 × 碳黑 Electric × Carbon | `#1C39E0` × `#26251F` | big scenes, contemporary culture, charged judgments |
-| 番茄红 × 玄墨 Tomato × Carbon | `#D93A2B` × `#2A2B2E` | declarations, darkest hours, decisions, urgency |
-| 翠绿 × 玄墨 Viridian × Carbon | `#0F9155` × `#2A2B2E` | observation, research, the long game |
-| 品红 × 玄墨 Magenta × Carbon | `#D6336C` × `#2A2B2E` | art, feeling, aesthetics, sentences with a sting |
+| 番茄红 × 靛青 Tomato × Indigo | `#D93A2B` × `#2447A6` | declarations, darkest hours, decisions, urgency |
+| 翠绿 × 绛红 Viridian × Oxblood | `#0F9155` × `#A13636` | observation, research, the long game |
+| 品红 × 藤黄 Magenta × Gold | `#D6336C` × `#E8A020` | art, feeling, aesthetics, sentences with a sting |
+| 湖青 × 砖红 Lake × Brick | `#1899CE` × `#B84330` | contemporary culture, big scenes, object systems |
 
-Only two of the five working pairs are blue — red, viridian, and magenta each hold their own lane, and across a batch the pairs rotate: no two adjacent cards share a dominant ink, and blue never carries more than half a series. Either ink of a pair may dominate when the subject calls for it. 五对里蓝只占两对；批产轮值，相邻卡不重主墨，一批里蓝不过半。
+Only one pair is blue-led — cyan, red, viridian, and magenta each hold their own lane, and across a batch the pairs rotate: no two adjacent cards share a dominant ink, and blue never carries more than half a series. Either ink of a pair may dominate when the subject calls for it. 五对里蓝主墨只占一对；批产轮值，相邻卡不重主墨，一批里蓝不过半。
 
 One muted heirloom pair — 黛蓝 × 赭石 ink-blue × ochre `#2F4C6B` × `#B26A3C` — is reserved for rice-paper archival subjects, by request only. Working inks stay saturated: a color is either full-strength or off press (a v1 house law). An English word or a numeral inside the sentence may take the accent ink as its job — black-on-Chinese, color-on-the-loanword is part of the series grammar. 工作墨一律高饱和；句中的英文词或数字可升格为副墨差事。
 
