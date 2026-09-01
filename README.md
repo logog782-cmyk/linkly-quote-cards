@@ -24,17 +24,17 @@ Original palette, named and mixed in-house. 自研色系，禁用库外色值。
 | 青灰 Slate | `#E8EAE8` | architecture, systems, restraint |
 | 稻米 Rice | `#F3EFE6` | age, craft, retrospect (by request) |
 
-**The pairing formula: one cold ink, one warm ink, both alive.** Black never partners — a chromatic ink against carbon is a monologue; two full-strength colors arguing is what makes the blue-orange pair sing, so every pair follows that recipe. 配对公式：一冷一暖、彩对彩；黑墨不配对。
+**The pairing formula: two live colors in conversation.** Cold against warm, or soft against hard — the tension between two inks is what makes a pair sing; a chromatic ink against plain carbon is a monologue. The default pair is the Lightform VI duo; the other four are hand-picked from the mono-color palette (MIT), values kept verbatim. 配对公式：两个活颜色较劲；默认对为光形体 VI，其余四对择自 mono-color 调色盘。
 
 | Ink pair 双墨对 | Hex | Domain |
 |---|---|---|
 | 辉蓝 × 熔橙 Aurora × Molten | `#105CBD` × `#E96D3D` | default pair; technology, creation, product |
-| 番茄红 × 靛青 Tomato × Indigo | `#D93A2B` × `#2447A6` | declarations, darkest hours, decisions, urgency |
-| 翠绿 × 绛红 Viridian × Oxblood | `#0F9155` × `#A13636` | observation, research, the long game |
-| 品红 × 藤黄 Magenta × Gold | `#D6336C` × `#E8A020` | art, feeling, aesthetics, sentences with a sting |
-| 湖青 × 砖红 Lake × Brick | `#1899CE` × `#B84330` | contemporary culture, big scenes, object systems |
+| 电蓝 × 碳黑 Electric × Carbon | `#173AE3` × `#242321` | big scenes, contemporary culture, high-contrast image fields |
+| 湖青 × 砖红 Lake × Brick | `#159DDA` × `#B64032` | object systems, repetition, crisp information |
+| 植物绿 × 酒红 Botanical × Oxblood | `#008A4B` × `#8F3434` | observation, research, the long game, archives |
+| 粉蓝 × 信号红 Powder × Signal | `#9EB8D3` × `#C83232` | announcements, information-heavy sentences; soft field, hard edge |
 
-Only one pair is blue-led — cyan, red, viridian, and magenta each hold their own lane, and across a batch the pairs rotate: no two adjacent cards share a dominant ink, and blue never carries more than half a series. Either ink of a pair may dominate when the subject calls for it. 五对里蓝主墨只占一对；批产轮值，相邻卡不重主墨，一批里蓝不过半。
+Powder blue is the one sanctioned pale ink — field duty only, always edged by signal red; the soft-hard contrast is that pair's whole point. Across a batch the pairs rotate: no two adjacent cards share a dominant ink, and blue never carries more than half a series. Either ink of a pair may dominate when the subject calls for it. 批产轮值，相邻卡不重主墨。
 
 One muted heirloom pair — 黛蓝 × 赭石 ink-blue × ochre `#2F4C6B` × `#B26A3C` — is reserved for rice-paper archival subjects, by request only. Working inks stay saturated: a color is either full-strength or off press (a v1 house law). An English word or a numeral inside the sentence may take the accent ink as its job — black-on-Chinese, color-on-the-loanword is part of the series grammar. 工作墨一律高饱和；句中的英文词或数字可升格为副墨差事。
 
@@ -58,11 +58,11 @@ Each card gets exactly one focal event, exactly one quiet zone, at most one hand
 | --- | --- | --- |
 | ![no.05](examples/no05-chenmian.jpeg) | ![no.63](examples/no63-altman.jpeg) | ![no.65](examples/no65-amodei.jpeg) |
 
-| no.77 Boris Cherny · 压场 | no.81 Andrej Karpathy · 器物 | |
+| no.77 Boris Cherny · 压场 | no.81 Andrej Karpathy · 器物 | no.70 周鸿祎 · 器物 |
 | --- | --- | --- |
-| ![no.77](examples/no77-cherny.jpeg) | ![no.81](examples/no81-karpathy.jpeg) | |
+| ![no.77](examples/no77-cherny.jpeg) | ![no.81](examples/no81-karpathy.jpeg) | ![no.70](examples/no70-zhouhongyi.jpeg) |
 
-"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty; a pair of dice whose lone red pip does all the talking about luck; an empty crib under an orange mobile for the world a child will grow into; a sheet folded four times for what exponentials look like two years early; one orange return key for the person who prompts instead of types; a typewriter with a blank page for "you read, the LLM writes." The medium argues the message. 句子讲什么，版面就用什么印。
+"粗糙的宏大是浪漫" set in coarse dots over a scaffolded tower; a white-knuckle grip for a founder who can't look at the scenery; one egg and half a page of paper for a sentence about beauty; a pair of dice whose lone red pip does all the talking about luck; an empty crib under an orange mobile for the world a child will grow into; a sheet folded four times for what exponentials look like two years early; one orange return key for the person who prompts instead of types; a typewriter with a blank page for "you read, the LLM writes"; a red filament burning in a powder-blue bulb for the one human advantage — low power draw. The medium argues the message. 句子讲什么，版面就用什么印。
 
 ## How it works · 它怎么干活
 
@@ -81,9 +81,9 @@ The skill file is written for a Seedream-backed image CLI; point the print step 
 
 ## Provenance · 出处
 
-All instructions, palette values, layout systems, and gallery artwork in this repository are original work by Lightform 光形体 / Linkly — see `FINGERPRINT.md` for per-file hashes and the git history for the timeline. The two-ink editorial print genre has a long lineage in risograph and print-shop culture; a tip of the hat to Yan Liu's mono-color-skill for demonstrating how well that genre travels into the prompt era. No text, tokens, or assets from that or any other project are used here.
+All instructions, layout systems, and gallery artwork in this repository are original work by Lightform 光形体 / Linkly; four ink-pair hex values are adopted from the MIT-licensed mono-color-skill palette, credited below — see `FINGERPRINT.md` for per-file hashes and the git history for the timeline. The two-ink editorial print genre has a long lineage in risograph and print-shop culture; a tip of the hat to Yan Liu's mono-color-skill for demonstrating how well that genre travels into the prompt era. Beyond those four ink values, no text, tokens, or assets from that or any other project are used here.
 
-本仓库全部指令、色值、版式系统与样卡均为光形体 / Linkly 原创（逐文件哈希见 `FINGERPRINT.md`，时间线见 git 历史）。双墨编辑印刷这一体裁在 risograph 与印刷文化中源远流长；致意 Yan Liu 的 mono-color-skill 对这一体裁在提示词时代的出色示范。本仓库未使用该项目或任何其他项目的文本、色值或素材。
+本仓库全部指令、版式系统与样卡均为光形体 / Linkly 原创（四组墨对色值择自 MIT 授权的 mono-color 调色盘，见下方致意）（逐文件哈希见 `FINGERPRINT.md`，时间线见 git 历史）。双墨编辑印刷这一体裁在 risograph 与印刷文化中源远流长；致意 Yan Liu 的 mono-color-skill 对这一体裁在提示词时代的出色示范。除上述四组墨对色值外，本仓库未使用该项目或任何其他项目的文本或素材。
 
 ## License
 

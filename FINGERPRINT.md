@@ -17,12 +17,13 @@ Every tracked file's SHA-256 in this release. A file found elsewhere that matche
 | File | SHA-256 |
 |---|---|
 | `LICENSE` | `6c9dc48137fd69dcda4130b8a27b4f995de5c1b7c25ad16a74cae119b35b8b29` |
-| `README.md` | `987fe9bfd0c34ff2519b86d5d2a3410292e35700099525025f2494a7bfc3b37d` |
-| `SKILL.md` | `fa6074dcf10ddfaf8e358816d5357632d782a1a673483f48f06b0776e122e5cb` |
+| `README.md` | `520620a24db99a833087ea7bc53cd67edb53386984444e1d48e4141322b6075c` |
+| `SKILL.md` | `238711603fa4a70eb9756f6f7d16e514e83d1751f6971528b996f6fca66fe269` |
 | `examples/no05-chenmian.jpeg` | `43dd62332444f310fb30acd27b555a9d8973dea3cebf8a88bdb020f1ef40eb68` |
 | `examples/no06-chenmian.jpeg` | `f4b0b4f1b32830500e23380c2684ed65ec9b397444f6d569e81ae85bf49cd507` |
 | `examples/no63-altman.jpeg` | `6445fbad6ef9e1cd86c870ebc173d6e863da2905c54bdaf5c02d2f8a53eb2c40` |
 | `examples/no65-amodei.jpeg` | `e04d76fb9d867b953b5ea70bf1c1f85879db6051fe94897678179804472dc04d` |
+| `examples/no70-zhouhongyi.jpeg` | `f29acbc6a249b61f6687e6ceb0253da5815f4071a1e63b84ff69fc3cd12e10f6` |
 | `examples/no77-cherny.jpeg` | `3637065a36b0eae93cdf8fc8f1c97366e863d1398a241cb52bdb8ba453693265` |
 | `examples/no81-karpathy.jpeg` | `bd511bccb44078362adf7635a68612d80988f38b3d8fd88d58ae20728b2ea0bf` |
 | `examples/no83-ilya.jpeg` | `ac789623219da51097cfd6e40152fc7175a004bf75b94cd87f3c0bcc35ea3676` |
